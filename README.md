@@ -1,3 +1,8 @@
+Note:
+During the implementation of this task, I utilized AI-assisted tools to accelerate development and validate edge cases. However, 
+all architectural decisions, business logic, and lifecycle design were carefully reviewed and refined manually to ensure correctness,
+ scalability, and alignment with real-world subscription systems.
+
 how to reun the project:
 
 Clone Repository
